@@ -2,6 +2,8 @@
 
 A boilerplate reference project on Java Spring Security with JWT users authentications
 
+Inspired by [this](https://www.youtube.com/watch?v=her_7pa0vrg) YouTube tutorial by [AmigosCode](https://amigoscode.com/)
+
 ## Run/Build Locally
 
 With Maven, run `maven clean install` followed by `maven spring-boot:run`
