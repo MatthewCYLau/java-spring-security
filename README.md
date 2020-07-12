@@ -1,6 +1,6 @@
 # Java Spring Security Boilerplate
 
-A boilerplate reference project on Java Spring Security
+A boilerplate reference project on Java Spring Security with JWT users authentications
 
 ## Run/Build Locally
 
